@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @7sn-3Laa-73
 - 👀 I’m interested in flutter
 - 🌱 I’m currently learning Dart 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on MObile Developer
 - 😄 Pronouns: he
 - ⚡ Fun fact: ...
 
